@@ -483,13 +483,6 @@ ninja.data = [{
           window.open("/assets/pdf/example_pdf.pdf", "_blank");
         },
       },{
-        id: 'social-discord',
-        title: 'Discord',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://discord.com/users/vmilovanovic", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -537,6 +530,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.scopus.com/authid/detail.uri?authorId=18936393300", "_blank");
+        },
+      },{
+        id: 'social-discord',
+        title: 'Discord',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://discord.com/users/vmilovanovic", "_blank");
         },
       },{
       id: 'light-theme',
