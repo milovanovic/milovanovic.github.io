@@ -326,15 +326,15 @@ ninja.data = [{
             window.location.href = "/assets/pdf/example_pdf.pdf";
           
         },
-      },{id: "post-probudi-se",
+      },{id: "post-probudi-se-gostovanje",
         
-          title: "Probudi se",
+          title: "Probudi se - gostovanje",
         
-        description: "Some title...",
+        description: "Some title goes here...",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/probudi-se-gostovanje/";
+            window.location.href = "/blog/2021/probudi-se/";
           
         },
       },{id: "post-a-post-with-diagrams",
