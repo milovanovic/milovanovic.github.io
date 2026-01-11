@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-euronews-jutro-gostovanje",
+        },{id: "post-beogradska-hronika-gostovanje",
+        
+          title: "Beogradska hronika - gostovanje",
+        
+        description: "Some title goes here...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/beogradska-hronika/";
+          
+        },
+      },{id: "post-euronews-jutro-gostovanje",
         
           title: "Euronews jutro - gostovanje",
         
