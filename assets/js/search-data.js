@@ -425,9 +425,9 @@ ninja.data = [{
             window.location.href = "/blog/2021/diagrams/";
           
         },
-      },{id: "post-rtk-izjava",
+      },{id: "post-rtk-moj-izbor",
         
-          title: "RTK - izjava",
+          title: "RTK - Moj izbor",
         
         description: "Some title goes here...",
         section: "Posts",
