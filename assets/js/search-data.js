@@ -51,7 +51,51 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-beogradska-hronika-gostovanje",
+        },{id: "post-uranak1-gostovanje",
+        
+          title: "UranaK1 - gostovanje",
+        
+        description: "Some title goes here...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/uranak1/";
+          
+        },
+      },{id: "post-beogradska-hronika-gostovanje",
+        
+          title: "Beogradska hronika - gostovanje",
+        
+        description: "Some title goes here...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/beogradska-hronika/";
+          
+        },
+      },{id: "post-rtk-izjava",
+        
+          title: "RTK - izjava",
+        
+        description: "Some title goes here...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/rtk-izjava/";
+          
+        },
+      },{id: "post-rtk-mozaik",
+        
+          title: "RTK - Mozaik",
+        
+        description: "Some title goes here...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/rtk-mozaik/";
+          
+        },
+      },{id: "post-beogradska-hronika-gostovanje",
         
           title: "Beogradska hronika - gostovanje",
         
@@ -337,6 +381,17 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
+      },{id: "post-rtk-izjava",
+        
+          title: "RTK - izjava",
+        
+        description: "Some title goes here...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/rtk-izjava/";
+          
+        },
       },{id: "post-a-post-with-redirect",
         
           title: "a post with redirect",
@@ -368,6 +423,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2021/diagrams/";
+          
+        },
+      },{id: "post-rtk-izjava",
+        
+          title: "RTK - izjava",
+        
+        description: "Some title goes here...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/moj-izbor/";
           
         },
       },{id: "post-a-distill-style-blog-post",
